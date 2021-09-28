@@ -26,7 +26,7 @@ var highScore = [{
 
 
 var questions = [{
-  question: "1. What is my name?\n\n1.vivek kumar\n2.rohit \n3.sunny\n\n",
+  question: "1. What is my name?\n\n1.vivek singh\n2.rohit \n3.sunny\n\n",
   answer: "1"
 },
 {
